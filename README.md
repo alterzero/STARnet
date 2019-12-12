@@ -21,18 +21,15 @@ Project page: https://alterzero.github.io/projects/STAR.html
 https://drive.google.com/drive/folders/1sI41DH5TUNBKkxRJ-_w5rUf90rN97UFn?usp=sharing
 
 ## HOW TO
-
-#Training
-###Train w/o FR
+### Train w/o FR
     ```python
     main.py
     ```
-###Train w/ FR
+### Train w/ FR
     ```python
     main_refinement_flow.py
     ```
-
-#Testing
+ 
 ### Evaluate STAR, STAR-ST, STAR-S, STAR-T-LR
     ```python
     eval.py
