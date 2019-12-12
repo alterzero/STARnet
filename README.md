@@ -18,7 +18,7 @@ Project page: https://alterzero.github.io/projects/STAR.html
 * [Vimeo-90k triplets Dataset](http://toflow.csail.mit.edu)
 
 ## Pretrained Model and Testset
-https://drive.google.com/drive/folders/1sI41DH5TUNBKkxRJ-_w5rUf90rN97UFn?usp=sharing
+https://drive.google.com/drive/folders/1cLZhlx4PLhF75qIZYxuVKLRKzN5_6i8r?usp=sharing
 
 ## HOW TO
 ### Train w/o FR
