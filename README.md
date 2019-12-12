@@ -29,7 +29,7 @@ https://drive.google.com/drive/folders/1sI41DH5TUNBKkxRJ-_w5rUf90rN97UFn?usp=sha
     ```python
     main_refinement_flow.py
     ```
- 
+
 ### Evaluate STAR, STAR-ST, STAR-S, STAR-T-LR
     ```python
     eval.py
@@ -39,7 +39,7 @@ https://drive.google.com/drive/folders/1sI41DH5TUNBKkxRJ-_w5rUf90rN97UFn?usp=sha
     eval_star_t_hr.py
     ```
 
-![RBPN](https://alterzero.github.io/projects/STAR.png)
+![RBPN](https://alterzero.github.io/projects/STAR2.png)
 
 ## Related work
 ### [Deep Back-Projection Networks for Super-Resolution (CVPR2018)](https://github.com/alterzero/DBPN-Pytorch)
