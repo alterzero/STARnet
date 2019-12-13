@@ -29,6 +29,10 @@ https://drive.google.com/drive/folders/1cLZhlx4PLhF75qIZYxuVKLRKzN5_6i8r?usp=sha
     ```python
     main_refinement_flow.py
     ```
+### Train w/ FR for STAR-T-HR
+    ```python
+    main_refinement_t_sr_hr.py
+    ```
 
 ### Evaluate STAR, STAR-ST, STAR-S, STAR-T-LR
     ```python
