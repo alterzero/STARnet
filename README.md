@@ -16,6 +16,8 @@ Project page: https://alterzero.github.io/projects/STAR.html
 
 ## Dataset
 * [Vimeo-90k triplets Dataset](http://toflow.csail.mit.edu)
+* [UCF101](https://github.com/liuziwei7/voxel-flow)
+* [Middlebury dataset](http://vision.middlebury.edu/flow/data/)
 
 ## Pretrained Model and Testset
 https://drive.google.com/drive/folders/1cLZhlx4PLhF75qIZYxuVKLRKzN5_6i8r?usp=sharing
